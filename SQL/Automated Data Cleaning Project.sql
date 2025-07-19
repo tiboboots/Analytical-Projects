@@ -1,3 +1,5 @@
+-- This project uses a stored procedure, events, and triggers to automatically clean data every 30 days
+
 USE Household_Income;
 
 DELIMITER $$
